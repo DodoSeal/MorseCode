@@ -29,8 +29,8 @@ export const MorseLibrary: MorseLibrary =  {
     "x": "-..-",
     "y": "-.--",
     "z": "--..",
-    "`": "",  // Finish this
-    "~": "",  // Finish this
+    // "`": "",  // Finish this
+    // "~": "",  // Finish this
     "1": ".----",
     "2": "..---",
     "3": "...--",
@@ -41,35 +41,35 @@ export const MorseLibrary: MorseLibrary =  {
     "8": "---..",
     "9": "----.",
     "0": "-----",
-    "!": "-.- .--",
-    "@": "@",  // Finish this
-    "#": "#",  // Finish this
-    "$": "&",  // Finish this
-    "%": "%",  // Finish this
-    "^": "^",  // Finish this
-    "&": "&",  // Finish this
-    "*": "*",  // Finish this
+    "!": "-.-.--",
+    // "@": "@",  // Finish this
+    // "#": "#",  // Finish this
+    // "$": "&",  // Finish this
+    // "%": "%",  // Finish this
+    // "^": "^",  // Finish this
+    // "&": "&",  // Finish this
+    // "*": "*",  // Finish this
     "(": "-.--.",
     ")": "-.--.-",
-    "-": "",  // Finish this
-    "_": "",  // Finish this
-    "=": "",  // Finish this
-    "+": "",  // Finish this
-    "[": "",  // Finish this
-    "{": "",  // Finish this
-    "]": "",  // Finish this
-    "}": "",  // Finish this
-    "\\": "", // Finish this
-    "|": "",  // Finish this
+    // "-": "",  // Finish this
+    // "_": "",  // Finish this
+    // "=": "",  // Finish this
+    // "+": "",  // Finish this
+    // "[": "",  // Finish this
+    // "{": "",  // Finish this
+    // "]": "",  // Finish this
+    // "}": "",  // Finish this
+    // "\\": "", // Finish this
+    // "|": "",  // Finish this
     ";": "-.-.-.",
     ":": "---...",
-    "'": "",  // Finish this
-    "\"": "", // Finish this
+    // "'": "",  // Finish this
+    // "\"": "", // Finish this
     ",": "--..--",
-    "<": "",  // Finish this
+    // "<": "",  // Finish this
     ".": ".-.-.-",
-    ">": "",  // Finish this
-    "/": "",  // Finish this
+    // ">": "",  // Finish this
+    // "/": "",  // Finish this
     "?": "..--..",
     " ": "/",
     "": ""
